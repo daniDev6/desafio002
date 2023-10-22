@@ -211,7 +211,7 @@ span,
 .card-stats>ul {
     display: flex;
     gap: 2rem;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
